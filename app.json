@@ -15,17 +15,17 @@
   "env": {
     "API_ID": {
       "description": "Bu değeri https://my.telegram.org",
-      "value": "",
+      "value": "2013655",
       "required": true
     },
     "API_HASH": {
       "description": "Bu değeri https://my.telegram.org",
-      "value": "",
+      "value": "036e4559f48a51ef4e33b2d6a1e7f502",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Botfather'dan bir Bot jetonu",
-      "value": "",
+      "description": "5926297757:AAHXHx-FMkpg16_ShWykWadi1ZfaZ3Hr7ys",
+      "value": "5926297757:AAHXHx-FMkpg16_ShWykWadi1ZfaZ3Hr7ys",
       "required": true
     },
     "DURATION_LIMIT": {
@@ -35,17 +35,17 @@
     },
     "ASSISTANT_PREFIX": {
       "description": "Yardımcı Komutlar öneki.",
-      "value": ".",
+      "value": "/",
       "required": true
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://Patuska:Ismet@patuska.vjubctv.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "Music Bot'unuz için bir ad.",
-      "value": "",
+      "value": "patuska",
       "required": true
     },
     "SUPPORT_CHANNEL": {
@@ -60,12 +60,12 @@
     },
     "OWNER_ID": {
       "description": "SAHİbİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "",
+      "value": "5026921065",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "",
+      "value": "1ApWapzMBu4gzcWt7wBJRxLC5ESqVD3GkPpABDhuPETwm0Wsv_l-2CkjjYXXV6LALFS4uF4NINjWsF2dWJOPHs_BhIwbsaSBo_z4gOsCbwIt_8FumLROxKvj3d-2fP0t_24N7X3tadSdLiqqufzetU4TI0OszsCPnZz4IYeVNXwSmH7y1CEEXdNVtxyi2YTgSqwsss9QI2qPNXnRdPK5PwQSFGf0HZY2aX-VvW8EyQBjuxjfdKjWkR8Bv0z4zv3IjLT7OmYaGkRuv8mTJeRl4M5ZSUUea2o7v5j_EdRNx9uNueYdGE-fH8p0GettZsCQRuJTDRja4a98EG7IAz8R1XooY0mi_wG0=",
       "required": true
     },
     "STRING_SESSION2": {
@@ -105,7 +105,7 @@
     },
     "SUDO_USERS": {
       "description": "SUDO olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "",
+      "value": "1300527267",
       "required": true
     },
     "UPSTREAM_REPO": {
